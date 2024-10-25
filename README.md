@@ -4,7 +4,7 @@ This is a Python-based contact management application that allows users to store
 ## Features
 <b>Add Contact:</b> Add a new contact by entering a name, phone number, and email address.
 
-View Contacts: Display all saved contacts.
+#View Contacts:# Display all saved contacts.
 
 Edit Contact: Update the phone number or email of an existing contact.
 
